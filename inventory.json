@@ -1,6 +1,6 @@
 {
   "dealership": "Go North Surrey Chevrolet Buick Gmc",
-  "generated_at": "2026-09-26T21:54:14",
+  "generated_at": "2026-10-08T14:37:17",
   "vehicle_count": 48,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -15,7 +15,9 @@
       "odometer_km": 121000,
       "year": 2017,
       "make": "Canyon",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2018 Sierra 1500",
@@ -28,7 +30,9 @@
       "year": 2018,
       "make": "Sierra",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2019 Terrain",
@@ -40,7 +44,9 @@
       "odometer_km": 92000,
       "year": 2019,
       "make": "Terrain",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2021 Trailblazer",
@@ -52,7 +58,9 @@
       "odometer_km": 69502,
       "year": 2021,
       "make": "Trailblazer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 Civic Hatchback",
@@ -65,7 +73,9 @@
       "year": 2022,
       "make": "Civic",
       "model": "Hatchback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2022 GV70",
@@ -77,7 +87,9 @@
       "odometer_km": 86500,
       "year": 2022,
       "make": "GV70",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 Tucson",
@@ -89,7 +101,9 @@
       "odometer_km": 8900,
       "year": 2023,
       "make": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 WRX",
@@ -101,7 +115,9 @@
       "odometer_km": 42000,
       "year": 2023,
       "make": "WRX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2023 X1",
@@ -113,7 +129,9 @@
       "odometer_km": 73750,
       "year": 2023,
       "make": "X1",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Edge",
@@ -125,7 +143,9 @@
       "odometer_km": 5400,
       "year": 2024,
       "make": "Edge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 F-150",
@@ -137,7 +157,9 @@
       "odometer_km": 48700,
       "year": 2024,
       "make": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 GLE",
@@ -149,7 +171,9 @@
       "odometer_km": 73350,
       "year": 2024,
       "make": "GLE",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 GLE",
@@ -161,7 +185,9 @@
       "odometer_km": 61650,
       "year": 2024,
       "make": "GLE",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Pathfinder",
@@ -173,7 +199,9 @@
       "odometer_km": 36850,
       "year": 2024,
       "make": "Pathfinder",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 Sentra",
@@ -185,7 +213,9 @@
       "odometer_km": 22700,
       "year": 2024,
       "make": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2024 XT4",
@@ -197,7 +227,9 @@
       "odometer_km": 23600,
       "year": 2024,
       "make": "XT4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 3 Series",
@@ -210,7 +242,9 @@
       "year": 2025,
       "make": "3",
       "model": "Series",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Bronco Sport",
@@ -223,7 +257,9 @@
       "year": 2025,
       "make": "Bronco",
       "model": "Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Explorer",
@@ -235,7 +271,9 @@
       "odometer_km": 32600,
       "year": 2025,
       "make": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Q5",
@@ -247,7 +285,9 @@
       "odometer_km": 31950,
       "year": 2025,
       "make": "Q5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Q5",
@@ -259,7 +299,9 @@
       "odometer_km": 35550,
       "year": 2025,
       "make": "Q5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2025 Venue",
@@ -271,7 +313,9 @@
       "odometer_km": 42500,
       "year": 2025,
       "make": "Venue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Blazer",
@@ -282,7 +326,9 @@
       "last_verified": "2026-09-26T21:54:09",
       "year": 2026,
       "make": "Blazer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Colorado",
@@ -293,7 +339,9 @@
       "last_verified": "2026-09-25T21:49:50",
       "year": 2026,
       "make": "Colorado",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Colorado",
@@ -304,7 +352,9 @@
       "last_verified": "2026-09-25T21:50:08",
       "year": 2026,
       "make": "Colorado",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Corvette",
@@ -315,7 +365,9 @@
       "last_verified": "2026-09-25T21:50:16",
       "year": 2026,
       "make": "Corvette",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Durango",
@@ -327,7 +379,9 @@
       "odometer_km": 7500,
       "year": 2026,
       "make": "Durango",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Enclave",
@@ -338,7 +392,9 @@
       "last_verified": "2026-09-26T21:53:24",
       "year": 2026,
       "make": "Enclave",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Enclave",
@@ -349,7 +405,9 @@
       "last_verified": "2026-09-26T21:53:34",
       "year": 2026,
       "make": "Enclave",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Encore GX",
@@ -361,7 +419,9 @@
       "year": 2026,
       "make": "Encore",
       "model": "GX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Envision",
@@ -372,7 +432,9 @@
       "last_verified": "2026-09-26T21:53:52",
       "year": 2026,
       "make": "Envision",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Envista",
@@ -383,7 +445,9 @@
       "last_verified": "2026-09-26T21:53:59",
       "year": 2026,
       "make": "Envista",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Equinox",
@@ -395,7 +459,9 @@
       "odometer_km": 25000,
       "year": 2026,
       "make": "Equinox",
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Equinox",
@@ -406,7 +472,9 @@
       "last_verified": "2026-09-25T21:50:26",
       "year": 2026,
       "make": "Equinox",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Equinox",
@@ -417,7 +485,9 @@
       "last_verified": "2026-09-25T21:50:35",
       "year": 2026,
       "make": "Equinox",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Equinox",
@@ -428,7 +498,9 @@
       "last_verified": "2026-09-25T21:50:45",
       "year": 2026,
       "make": "Equinox",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Equinox",
@@ -439,7 +511,9 @@
       "last_verified": "2026-09-25T21:50:55",
       "year": 2026,
       "make": "Equinox",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Sierra 1500",
@@ -451,7 +525,9 @@
       "year": 2026,
       "make": "Sierra",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Sierra 1500",
@@ -463,7 +539,9 @@
       "year": 2026,
       "make": "Sierra",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Sierra 1500",
@@ -475,7 +553,9 @@
       "year": 2026,
       "make": "Sierra",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Sierra 1500",
@@ -487,7 +567,9 @@
       "year": 2026,
       "make": "Sierra",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Sierra 3500HD",
@@ -499,7 +581,9 @@
       "year": 2026,
       "make": "Sierra",
       "model": "3500HD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Silverado 1500",
@@ -511,7 +595,9 @@
       "year": 2026,
       "make": "Silverado",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Tahoe",
@@ -522,7 +608,9 @@
       "last_verified": "2026-09-25T21:51:15",
       "year": 2026,
       "make": "Tahoe",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Trailblazer",
@@ -533,7 +621,9 @@
       "last_verified": "2026-09-26T21:51:57",
       "year": 2026,
       "make": "Trailblazer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Trax",
@@ -544,7 +634,9 @@
       "last_verified": "2026-09-26T21:52:06",
       "year": 2026,
       "make": "Trax",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Trax",
@@ -555,7 +647,9 @@
       "last_verified": "2026-09-26T21:52:17",
       "year": 2026,
       "make": "Trax",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "2026 Yukon XL",
@@ -567,7 +661,9 @@
       "year": 2026,
       "make": "Yukon",
       "model": "XL",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     }
   ]
 }
