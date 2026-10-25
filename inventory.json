@@ -1,7 +1,7 @@
 {
   "dealership": "Go North Surrey Chevrolet Buick Gmc",
-  "generated_at": "2026-10-25T14:21:58",
-  "vehicle_count": 54,
+  "generated_at": "2026-10-25T14:24:31",
+  "vehicle_count": 55,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -426,6 +426,14 @@
       "name": "2026 Trax",
       "vin": "KL77LHE23TC071014",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/d970fd7fd773.html",
+      "year": 2026,
+      "make": "Trax",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Trax",
+      "vin": "KL77LHE26TC061500",
+      "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/4c6351cb5ad5.html",
       "year": 2026,
       "make": "Trax",
       "condition": "new"
