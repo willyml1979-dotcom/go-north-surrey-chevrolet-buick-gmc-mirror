@@ -1,758 +1,443 @@
 {
   "dealership": "Go North Surrey Chevrolet Buick Gmc",
-  "generated_at": "2026-10-22T22:48:22",
-  "vehicle_count": 55,
+  "generated_at": "2026-10-25T14:21:58",
+  "vehicle_count": 54,
   "currency": "CAD",
-  "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
+  "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
       "name": "Search",
-      "stock": "2026",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/618fa8b1a2ff.html",
-      "source_url": "https://gonorthsurreygm.ca/view/new-2026-buick-encore-gx-1453305/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/new-2026-buick-encore-gx-1453305/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:43:26",
+      "condition": "new",
       "price": 29318.0,
-      "price_currency": "CAD",
-      "condition": "new",
-      "city": "Surrey",
-      "province": "BC"
+      "price_currency": "CAD"
     },
     {
       "name": "Search",
-      "stock": "2026",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/f38a1d5b16da.html",
-      "source_url": "https://gonorthsurreygm.ca/view/new-2026-chevrolet-blazer-1551810/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/new-2026-chevrolet-blazer-1551810/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:43:57",
+      "condition": "new",
       "price": 35910.0,
-      "price_currency": "CAD",
-      "condition": "new",
-      "city": "Surrey",
-      "province": "BC"
+      "price_currency": "CAD"
     },
     {
       "name": "Search",
-      "stock": "2026",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/85bab0ed0a44.html",
-      "source_url": "https://gonorthsurreygm.ca/view/new-2026-chevrolet-tahoe-1508466/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/new-2026-chevrolet-tahoe-1508466/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:47:18",
+      "condition": "new",
       "price": 115972.0,
-      "price_currency": "CAD",
-      "condition": "new",
-      "city": "Surrey",
-      "province": "BC"
+      "price_currency": "CAD"
     },
     {
       "name": "Search",
-      "stock": "2026",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/e0ba318956c7.html",
-      "source_url": "https://gonorthsurreygm.ca/view/new-2026-gmc-sierra-1500-1513530/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/new-2026-gmc-sierra-1500-1513530/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:47:52",
-      "price": 89910.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Surrey",
-      "province": "BC"
+      "price": 89910.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Search",
-      "stock": "2026",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/5c806e6b2774.html",
-      "source_url": "https://gonorthsurreygm.ca/view/new-2026-gmc-sierra-1500-1515229/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/new-2026-gmc-sierra-1500-1515229/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:48:01",
-      "price": 89910.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Surrey",
-      "province": "BC"
+      "price": 89910.0,
+      "price_currency": "CAD"
     },
     {
       "name": "Search",
-      "stock": "2026",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/c1f434a550f1.html",
-      "source_url": "https://gonorthsurreygm.ca/view/new-2026-gmc-sierra-1500-1578708/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/new-2026-gmc-sierra-1500-1578708/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:48:11",
-      "price": 89910.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Surrey",
-      "province": "BC"
+      "price": 89910.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2017 Edge",
       "vin": "2FMPK4K80HBC23681",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/ca8af23e537f.html",
-      "source_url": "https://gonorthsurreygm.ca/view/used-2017-ford-edge-1849305/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/used-2017-ford-edge-1849305/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:43:29",
-      "odometer_km": 75000,
       "year": 2017,
       "make": "Edge",
-      "condition": "used",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2017 GT-R",
       "vin": "JN1AR5EF1HM820115",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/f0c0c31c2e46.html",
-      "source_url": "https://gonorthsurreygm.ca/view/used-2017-nissan-gt-r-1837052/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/used-2017-nissan-gt-r-1837052/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:42:43",
-      "odometer_km": 39188,
       "year": 2017,
       "make": "GT-R",
-      "condition": "used",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2021 3 Series",
       "vin": "3MW5R7J0XM8B49155",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/35e66f29b82a.html",
-      "source_url": "https://gonorthsurreygm.ca/view/used-2021-bmw-3-series-1843326/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/used-2021-bmw-3-series-1843326/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:41:09",
-      "odometer_km": 37500,
       "year": 2021,
       "make": "3",
       "model": "Series",
-      "condition": "used",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2021 Elantra",
       "vin": "KMHLR4AF6MU132574",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/22e56bdc7151.html",
-      "source_url": "https://gonorthsurreygm.ca/view/used-2021-hyundai-elantra-1852841/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/used-2021-hyundai-elantra-1852841/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:43:38",
-      "odometer_km": 48000,
       "year": 2021,
       "make": "Elantra",
-      "condition": "used",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "used"
     },
     {
-      "name": "2022 Civic Hatchback",
-      "vin": "19XFL1H8XNE403385",
-      "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/6bd7e4ff2d89.html",
-      "source_url": "https://gonorthsurreygm.ca/view/used-2022-honda-civic-hatchback-1779719/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/used-2022-honda-civic-hatchback-1779719/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:40:54",
-      "odometer_km": 24300,
+      "name": "2022 1500",
+      "vin": "1C6SRFKT2NN170189",
+      "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/0c1e23fc5a4d.html",
       "year": 2022,
-      "make": "Civic",
-      "model": "Hatchback",
-      "condition": "used",
-      "city": "Surrey",
-      "province": "BC"
+      "make": "1500",
+      "condition": "used"
     },
     {
       "name": "2022 M4",
       "vin": "WBS33BA09NCH50321",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/e566e8aac27a.html",
-      "source_url": "https://gonorthsurreygm.ca/view/used-2022-bmw-m4-1842276/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/used-2022-bmw-m4-1842276/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:41:20",
-      "odometer_km": 25950,
       "year": 2022,
       "make": "M4",
-      "condition": "used",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2023 Tucson",
       "vin": "KM8JCCAE7PU191471",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/de827a74636f.html",
-      "source_url": "https://gonorthsurreygm.ca/view/used-2023-hyundai-tucson-1803587/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/used-2023-hyundai-tucson-1803587/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:43:03",
-      "odometer_km": 8900,
       "year": 2023,
       "make": "Tucson",
-      "condition": "used",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2023 WRX",
       "vin": "JF1VBAL6XP9815226",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/298f271f76e8.html",
-      "source_url": "https://gonorthsurreygm.ca/view/used-2023-subaru-wrx-1834379/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/used-2023-subaru-wrx-1834379/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:43:57",
-      "odometer_km": 42000,
       "year": 2023,
       "make": "WRX",
-      "condition": "used",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2023 X1",
       "vin": "WBX73EF05P5X56059",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/96952268f7f8.html",
-      "source_url": "https://gonorthsurreygm.ca/view/used-2023-bmw-x1-1794219/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/used-2023-bmw-x1-1794219/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:42:53",
-      "odometer_km": 73750,
       "year": 2023,
       "make": "X1",
-      "condition": "used",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2024 Edge",
       "vin": "2FMPK4G97RBB10278",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/c4098bc47d0e.html",
-      "source_url": "https://gonorthsurreygm.ca/view/used-2024-ford-edge-1789392/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/used-2024-ford-edge-1789392/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:44:16",
-      "odometer_km": 5400,
       "year": 2024,
       "make": "Edge",
-      "condition": "used",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2024 F-150",
       "vin": "1FTFW7LD5RFA46028",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/7767016173e6.html",
-      "source_url": "https://gonorthsurreygm.ca/view/used-2024-ford-f-150-1818626/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/used-2024-ford-f-150-1818626/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:44:25",
-      "odometer_km": 48700,
       "year": 2024,
       "make": "F-150",
-      "condition": "used",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2024 F-150",
       "vin": "1FTFW5LD3RFA18426",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/b8bca04f5d0b.html",
-      "source_url": "https://gonorthsurreygm.ca/view/used-2024-ford-f-150-1852842/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/used-2024-ford-f-150-1852842/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:39:41",
-      "odometer_km": 28000,
       "year": 2024,
       "make": "F-150",
-      "condition": "used",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2024 GLE",
       "vin": "4JGFB4FB8RB167725",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/334973bfc496.html",
-      "source_url": "https://gonorthsurreygm.ca/view/used-2024-mercedes-benz-gle-1783452/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/used-2024-mercedes-benz-gle-1783452/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:44:34",
-      "odometer_km": 73350,
       "year": 2024,
       "make": "GLE",
-      "condition": "used",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2024 GLE",
       "vin": "4JGFB4FB7RA993939",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/ea772a282008.html",
-      "source_url": "https://gonorthsurreygm.ca/view/used-2024-mercedes-benz-gle-1794217/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/used-2024-mercedes-benz-gle-1794217/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:45:00",
-      "odometer_km": 61650,
       "year": 2024,
       "make": "GLE",
-      "condition": "used",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2024 Pathfinder",
       "vin": "5N1DR3ACXRC204605",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/a673f3231366.html",
-      "source_url": "https://gonorthsurreygm.ca/view/used-2024-nissan-pathfinder-1786077/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/used-2024-nissan-pathfinder-1786077/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:35:16",
-      "odometer_km": 36850,
       "year": 2024,
       "make": "Pathfinder",
-      "condition": "used",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2024 RAV4",
       "vin": "2T3BWRFV1RW228466",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/07f26c9cb0d4.html",
-      "source_url": "https://gonorthsurreygm.ca/view/used-2024-toyota-rav4-1852843/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/used-2024-toyota-rav4-1852843/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:43:21",
-      "odometer_km": 53800,
       "year": 2024,
       "make": "RAV4",
-      "condition": "used",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2024 XT4",
       "vin": "1GYFZFR44RF162338",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/582a10371608.html",
-      "source_url": "https://gonorthsurreygm.ca/view/used-2024-cadillac-xt4-1792871/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/used-2024-cadillac-xt4-1792871/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:44:08",
-      "odometer_km": 23600,
       "year": 2024,
       "make": "XT4",
-      "condition": "used",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2025 Explorer",
       "vin": "1FMUK8DH5SGC26325",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/229cabd71ba0.html",
-      "source_url": "https://gonorthsurreygm.ca/view/used-2025-ford-explorer-1786080/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/used-2025-ford-explorer-1786080/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:39:32",
-      "odometer_km": 32600,
       "year": 2025,
       "make": "Explorer",
-      "condition": "used",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2025 F-150",
       "vin": "1FTFW5L82SFB03119",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/a91866301580.html",
-      "source_url": "https://gonorthsurreygm.ca/view/used-2025-ford-f-150-1846939/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/used-2025-ford-f-150-1846939/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:41:27",
-      "odometer_km": 76800,
       "year": 2025,
       "make": "F-150",
-      "condition": "used",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2025 F-150",
       "vin": "1FTFW5L81SKD83672",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/147330599382.html",
-      "source_url": "https://gonorthsurreygm.ca/view/used-2025-ford-f-150-1852838/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/used-2025-ford-f-150-1852838/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:43:49",
-      "odometer_km": 37500,
       "year": 2025,
       "make": "F-150",
-      "condition": "used",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2025 Q5",
       "vin": "WA12AAGU5S2037051",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/c6580b68dd89.html",
-      "source_url": "https://gonorthsurreygm.ca/view/used-2025-audi-q5-1792865/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/used-2025-audi-q5-1792865/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:35:34",
-      "odometer_km": 31950,
       "year": 2025,
       "make": "Q5",
-      "condition": "used",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2025 Q5",
       "vin": "WA12AAGU5S2027183",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/74bb277ca506.html",
-      "source_url": "https://gonorthsurreygm.ca/view/used-2025-audi-q5-1819433/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/used-2025-audi-q5-1819433/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:35:42",
-      "odometer_km": 35550,
       "year": 2025,
       "make": "Q5",
-      "condition": "used",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2025 Venue",
       "vin": "KMHRC8A35SU379171",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/8b82fddb66a4.html",
-      "source_url": "https://gonorthsurreygm.ca/view/used-2025-hyundai-venue-1801370/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/used-2025-hyundai-venue-1801370/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:39:50",
-      "odometer_km": 42500,
       "year": 2025,
       "make": "Venue",
-      "condition": "used",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2026 Colorado",
       "vin": "1GCPTDEK2T1159477",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/181c66333f6e.html",
-      "source_url": "https://gonorthsurreygm.ca/view/new-2026-chevrolet-colorado-1578696/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/new-2026-chevrolet-colorado-1578696/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:44:51",
       "year": 2026,
       "make": "Colorado",
-      "condition": "new",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "2026 Colorado",
       "vin": "1GCPTDEK1T1162970",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/86023723bb04.html",
-      "source_url": "https://gonorthsurreygm.ca/view/new-2026-chevrolet-colorado-1578703/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/new-2026-chevrolet-colorado-1578703/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:45:45",
       "year": 2026,
       "make": "Colorado",
-      "condition": "new",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "2026 Corvette",
       "vin": "1G1YE3D37T5600248",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/255f53199e9d.html",
-      "source_url": "https://gonorthsurreygm.ca/view/new-2026-chevrolet-corvette-1497666/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/new-2026-chevrolet-corvette-1497666/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:44:23",
       "year": 2026,
       "make": "Corvette",
-      "condition": "new",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "2026 Corvette",
       "vin": "1G1YA2D40T5103475",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/796950d95dd8.html",
-      "source_url": "https://gonorthsurreygm.ca/view/new-2026-chevrolet-corvette-1503586/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/new-2026-chevrolet-corvette-1503586/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:45:54",
       "year": 2026,
       "make": "Corvette",
-      "condition": "new",
-      "city": "Surrey",
-      "province": "BC"
-    },
-    {
-      "name": "2026 Durango",
-      "vin": "1C4SDJCT1TC178737",
-      "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/e3d072ff7ccc.html",
-      "source_url": "https://gonorthsurreygm.ca/view/used-2026-dodge-durango-1821440/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/used-2026-dodge-durango-1821440/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:39:58",
-      "odometer_km": 7500,
-      "year": 2026,
-      "make": "Durango",
-      "condition": "used",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "2026 Enclave",
       "vin": "5GAEVAKS8TJ111858",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/72960b37d8d3.html",
-      "source_url": "https://gonorthsurreygm.ca/view/new-2026-buick-enclave-1462524/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/new-2026-buick-enclave-1462524/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:43:06",
       "year": 2026,
       "make": "Enclave",
-      "condition": "new",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "2026 Enclave",
       "vin": "5GAEVBKS7TJ179512",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/0c1b48cbd265.html",
-      "source_url": "https://gonorthsurreygm.ca/view/new-2026-buick-enclave-1523420/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/new-2026-buick-enclave-1523420/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:43:17",
       "year": 2026,
       "make": "Enclave",
-      "condition": "new",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "2026 Encore GX",
       "vin": "KL4AMBSL0TB001941",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/53ee93f94630.html",
-      "source_url": "https://gonorthsurreygm.ca/view/new-2026-buick-encore-gx-1358956/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/new-2026-buick-encore-gx-1358956/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:44:05",
       "year": 2026,
       "make": "Encore",
       "model": "GX",
-      "condition": "new",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "2026 Encore GX",
       "vin": "KL4AMGSL4TB040108",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/9078a60449c2.html",
-      "source_url": "https://gonorthsurreygm.ca/view/new-2026-buick-encore-gx-1453310/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/new-2026-buick-encore-gx-1453310/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:44:13",
       "year": 2026,
       "make": "Encore",
       "model": "GX",
-      "condition": "new",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "2026 Envision",
       "vin": "LRBFZMR45TD008992",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/c1c3cf282be9.html",
-      "source_url": "https://gonorthsurreygm.ca/view/new-2026-buick-envision-1567261/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/new-2026-buick-envision-1567261/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:43:35",
       "year": 2026,
       "make": "Envision",
-      "condition": "new",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "2026 Envista",
       "vin": "KL47LBE2XTB082494",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/7de75f34e87e.html",
-      "source_url": "https://gonorthsurreygm.ca/view/new-2026-buick-envista-1558237/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/new-2026-buick-envista-1558237/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:43:46",
       "year": 2026,
       "make": "Envista",
-      "condition": "new",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "2026 Equinox",
       "vin": "3GNAXPEG4TL290207",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/a0b3a8d5ed10.html",
-      "source_url": "https://gonorthsurreygm.ca/view/used-2026-chevrolet-equinox-1839864/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/used-2026-chevrolet-equinox-1839864/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:44:51",
-      "odometer_km": 25000,
       "year": 2026,
       "make": "Equinox",
-      "condition": "used",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2026 Equinox",
       "vin": "3GNAXHEG7TL285475",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/5982e67a65b8.html",
-      "source_url": "https://gonorthsurreygm.ca/view/new-2026-chevrolet-equinox-1508426/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/new-2026-chevrolet-equinox-1508426/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:46:01",
       "year": 2026,
       "make": "Equinox",
-      "condition": "new",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "2026 Equinox",
       "vin": "3GNAXHEG4TL285885",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/c219c7bd68e8.html",
-      "source_url": "https://gonorthsurreygm.ca/view/new-2026-chevrolet-equinox-1508442/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/new-2026-chevrolet-equinox-1508442/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:46:12",
       "year": 2026,
       "make": "Equinox",
-      "condition": "new",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "2026 Equinox",
       "vin": "3GNAXTEG3TL290224",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/58160ed93128.html",
-      "source_url": "https://gonorthsurreygm.ca/view/new-2026-chevrolet-equinox-1508465/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/new-2026-chevrolet-equinox-1508465/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:46:20",
       "year": 2026,
       "make": "Equinox",
-      "condition": "new",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "2026 Equinox",
       "vin": "3GNAXHEG3TL265238",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/fa82cce22163.html",
-      "source_url": "https://gonorthsurreygm.ca/view/new-2026-chevrolet-equinox-1512540/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/new-2026-chevrolet-equinox-1512540/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:46:28",
       "year": 2026,
       "make": "Equinox",
-      "condition": "new",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "2026 Sierra 1500",
       "vin": "3GTUUFEL0TG216748",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/3a1cce5ef8fb.html",
-      "source_url": "https://gonorthsurreygm.ca/view/new-2026-gmc-sierra-1500-1578711/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/new-2026-gmc-sierra-1500-1578711/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:42:35",
       "year": 2026,
       "make": "Sierra",
       "model": "1500",
-      "condition": "new",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "2026 Sierra 1500",
       "vin": "1GTUUHEL9TZ245063",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/09bbc2404ab2.html",
-      "source_url": "https://gonorthsurreygm.ca/view/new-2026-gmc-sierra-1500-1612122/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/new-2026-gmc-sierra-1500-1612122/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:44:41",
       "year": 2026,
       "make": "Sierra",
       "model": "1500",
-      "condition": "new",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "2026 Sierra 3500HD",
       "vin": "1GT4UYEY2TF155041",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/2b6e0210fa6a.html",
-      "source_url": "https://gonorthsurreygm.ca/view/new-2026-gmc-sierra-3500hd-1560553/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/new-2026-gmc-sierra-3500hd-1560553/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:42:48",
       "year": 2026,
       "make": "Sierra",
       "model": "3500HD",
-      "condition": "new",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "2026 Silverado 1500",
       "vin": "3GCUKFEL7TG123330",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/013a108f4280.html",
-      "source_url": "https://gonorthsurreygm.ca/view/new-2026-chevrolet-silverado-1500-1551819/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/new-2026-chevrolet-silverado-1500-1551819/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:47:07",
       "year": 2026,
       "make": "Silverado",
       "model": "1500",
-      "condition": "new",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "2026 Trailblazer",
       "vin": "KL79MSSL9TB003855",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/bbb9ff49a966.html",
-      "source_url": "https://gonorthsurreygm.ca/view/new-2026-chevrolet-trailblazer-1358958/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/new-2026-chevrolet-trailblazer-1358958/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:47:28",
       "year": 2026,
       "make": "Trailblazer",
-      "condition": "new",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "2026 Trax",
       "vin": "KL77LHE23TC030270",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/3753e447b17a.html",
-      "source_url": "https://gonorthsurreygm.ca/view/new-2026-chevrolet-trax-1523426/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/new-2026-chevrolet-trax-1523426/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:47:38",
       "year": 2026,
       "make": "Trax",
-      "condition": "new",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "2026 Trax",
       "vin": "KL77LHE25TC030321",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/0bcace81600c.html",
-      "source_url": "https://gonorthsurreygm.ca/view/new-2026-chevrolet-trax-1546689/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/new-2026-chevrolet-trax-1546689/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:47:45",
       "year": 2026,
       "make": "Trax",
-      "condition": "new",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "2026 Trax",
       "vin": "KL77LJE24TC071286",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/20e0deb78054.html",
-      "source_url": "https://gonorthsurreygm.ca/view/new-2026-chevrolet-trax-1614459/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/new-2026-chevrolet-trax-1614459/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:44:31",
       "year": 2026,
       "make": "Trax",
-      "condition": "new",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "2026 Trax",
       "vin": "KL77LHE23TC071014",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/d970fd7fd773.html",
-      "source_url": "https://gonorthsurreygm.ca/view/new-2026-chevrolet-trax-1614461/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/new-2026-chevrolet-trax-1614461/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:48:19",
       "year": 2026,
       "make": "Trax",
-      "condition": "new",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "new"
     },
     {
       "name": "2026 Yukon XL",
       "vin": "1GKS2JKL2TR135162",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/36ff1028fe9a.html",
-      "source_url": "https://gonorthsurreygm.ca/view/new-2026-gmc-yukon-xl-1508463/",
-      "dealer_url": "https://gonorthsurreygm.ca/view/new-2026-gmc-yukon-xl-1508463/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:42:57",
       "year": 2026,
       "make": "Yukon",
       "model": "XL",
-      "condition": "new",
-      "city": "Surrey",
-      "province": "BC"
+      "condition": "new"
     }
   ]
 }
