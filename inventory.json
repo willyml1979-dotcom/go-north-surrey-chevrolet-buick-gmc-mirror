@@ -1,7 +1,7 @@
 {
   "dealership": "Go North Surrey Chevrolet Buick Gmc",
-  "generated_at": "2026-10-25T14:24:31",
-  "vehicle_count": 55,
+  "generated_at": "2026-11-16T17:42:46",
+  "vehicle_count": 58,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -64,20 +64,20 @@
       "condition": "used"
     },
     {
+      "name": "2020 Corvette",
+      "vin": "1G1Y83D48L5108571",
+      "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/4a8962994e7e.html",
+      "year": 2020,
+      "make": "Corvette",
+      "condition": "used"
+    },
+    {
       "name": "2021 3 Series",
       "vin": "3MW5R7J0XM8B49155",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/35e66f29b82a.html",
       "year": 2021,
       "make": "3",
       "model": "Series",
-      "condition": "used"
-    },
-    {
-      "name": "2021 Elantra",
-      "vin": "KMHLR4AF6MU132574",
-      "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/22e56bdc7151.html",
-      "year": 2021,
-      "make": "Elantra",
       "condition": "used"
     },
     {
@@ -97,19 +97,28 @@
       "condition": "used"
     },
     {
-      "name": "2023 Tucson",
-      "vin": "KM8JCCAE7PU191471",
-      "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/de827a74636f.html",
+      "name": "2023 F-150",
+      "vin": "1FTFW1ED7PFC73695",
+      "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/407d6acadb95.html",
       "year": 2023,
-      "make": "Tucson",
+      "make": "F-150",
       "condition": "used"
     },
     {
-      "name": "2023 WRX",
-      "vin": "JF1VBAL6XP9815226",
-      "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/298f271f76e8.html",
+      "name": "2023 Sierra 1500",
+      "vin": "3GTUUCED0PG217699",
+      "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/53432e44ee0f.html",
       "year": 2023,
-      "make": "WRX",
+      "make": "Sierra",
+      "model": "1500",
+      "condition": "used"
+    },
+    {
+      "name": "2023 Sportage",
+      "vin": "KNDPVCAF5P7164981",
+      "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/898a6df68566.html",
+      "year": 2023,
+      "make": "Sportage",
       "condition": "used"
     },
     {
@@ -118,14 +127,6 @@
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/96952268f7f8.html",
       "year": 2023,
       "make": "X1",
-      "condition": "used"
-    },
-    {
-      "name": "2024 Edge",
-      "vin": "2FMPK4G97RBB10278",
-      "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/c4098bc47d0e.html",
-      "year": 2024,
-      "make": "Edge",
       "condition": "used"
     },
     {
@@ -161,6 +162,15 @@
       "condition": "used"
     },
     {
+      "name": "2024 Golf R",
+      "vin": "WVWEB7CD9RW117304",
+      "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/24dc092c0fbd.html",
+      "year": 2024,
+      "make": "Golf",
+      "model": "R",
+      "condition": "used"
+    },
+    {
       "name": "2024 Pathfinder",
       "vin": "5N1DR3ACXRC204605",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/a673f3231366.html",
@@ -177,11 +187,11 @@
       "condition": "used"
     },
     {
-      "name": "2024 XT4",
-      "vin": "1GYFZFR44RF162338",
-      "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/582a10371608.html",
+      "name": "2024 Ranger",
+      "vin": "1FTER4HH8RLE06665",
+      "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/91505359aaf4.html",
       "year": 2024,
-      "make": "XT4",
+      "make": "Ranger",
       "condition": "used"
     },
     {
@@ -206,6 +216,23 @@
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/147330599382.html",
       "year": 2025,
       "make": "F-150",
+      "condition": "used"
+    },
+    {
+      "name": "2025 F-150",
+      "vin": "1FTFW5L86SFA71114",
+      "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/b0407208a2d5.html",
+      "year": 2025,
+      "make": "F-150",
+      "condition": "used"
+    },
+    {
+      "name": "2025 Kicks Play",
+      "vin": "3N1CP5BV0SL466177",
+      "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/54d0797c6283.html",
+      "year": 2025,
+      "make": "Kicks",
+      "model": "Play",
       "condition": "used"
     },
     {
