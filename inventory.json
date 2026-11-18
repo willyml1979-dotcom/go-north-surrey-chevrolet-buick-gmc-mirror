@@ -1,6 +1,6 @@
 {
   "dealership": "Go North Surrey Chevrolet Buick Gmc",
-  "generated_at": "2026-11-17T17:46:19",
+  "generated_at": "2026-11-17T18:08:21",
   "vehicle_count": 59,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -23,7 +23,7 @@
       "name": "Search",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/f38a1d5b16da.html",
       "condition": "new",
-      "price": 35910.0,
+      "price": 39334.0,
       "price_currency": "CAD"
     },
     {
@@ -64,6 +64,13 @@
     {
       "name": "Search",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/c1f434a550f1.html",
+      "condition": "new",
+      "price": 100312.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Search",
+      "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/3a1cce5ef8fb.html",
       "condition": "new",
       "price": 100312.0,
       "price_currency": "CAD"
@@ -393,15 +400,6 @@
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/fa82cce22163.html",
       "year": 2026,
       "make": "Equinox",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Sierra 1500",
-      "vin": "3GTUUFEL0TG216748",
-      "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/3a1cce5ef8fb.html",
-      "year": 2026,
-      "make": "Sierra",
-      "model": "1500",
       "condition": "new"
     },
     {
