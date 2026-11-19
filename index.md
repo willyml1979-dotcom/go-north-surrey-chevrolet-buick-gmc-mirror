@@ -1,6 +1,6 @@
 # Go North Surrey Chevrolet Buick GMC
 
- dealership in Surrey. AI-readable inventory mirror, about 59 vehicles.
+ dealership in Surrey. AI-readable inventory mirror, about 64 vehicles.
 
 - Official website: https://gonorthsurreygm.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/

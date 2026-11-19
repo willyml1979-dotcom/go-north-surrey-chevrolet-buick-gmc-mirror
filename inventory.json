@@ -1,10 +1,17 @@
 {
   "dealership": "Go North Surrey Chevrolet Buick Gmc",
-  "generated_at": "2026-11-17T18:08:21",
-  "vehicle_count": 59,
+  "generated_at": "2026-11-18T18:20:52",
+  "vehicle_count": 64,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "Search",
+      "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/787d8a690f8e.html",
+      "condition": "used",
+      "price": 23997.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "Search",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/7767016173e6.html",
@@ -24,6 +31,20 @@
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/f38a1d5b16da.html",
       "condition": "new",
       "price": 39334.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Search",
+      "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/013a108f4280.html",
+      "condition": "new",
+      "price": 67332.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Search",
+      "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/85bab0ed0a44.html",
+      "condition": "new",
+      "price": 115972.0,
       "price_currency": "CAD"
     },
     {
@@ -97,6 +118,15 @@
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/4a8962994e7e.html",
       "year": 2020,
       "make": "Corvette",
+      "condition": "used"
+    },
+    {
+      "name": "2020 Santa Fe",
+      "vin": "5NMS5CAA5LH268422",
+      "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/used/640d25b4f6a8.html",
+      "year": 2020,
+      "make": "Santa",
+      "model": "Fe",
       "condition": "used"
     },
     {
@@ -466,6 +496,14 @@
       "name": "2026 Trax",
       "vin": "KL77LHE29TC061359",
       "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/afb02cfbc9ae.html",
+      "year": 2026,
+      "make": "Trax",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Trax",
+      "vin": "KL77LHE24TC091997",
+      "url": "https://willyml1979-dotcom.github.io/go-north-surrey-chevrolet-buick-gmc-mirror/new/e4322f950271.html",
       "year": 2026,
       "make": "Trax",
       "condition": "new"
